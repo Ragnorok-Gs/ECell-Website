@@ -43,6 +43,13 @@ h3 {
 
 img { max-width: 100%; }
 
+.img-circle {
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+}
+	
+
 .medium-paragraph {
 	font-size: 17px;
 	line-height: 32px;
